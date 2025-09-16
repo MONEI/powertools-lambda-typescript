@@ -114,7 +114,7 @@
     "url": "https://github.com/aws-powertools/powertools-lambda-typescript/issues"
   },
   "dependencies": {
-    "@aws-lambda-powertools/commons": "2.22.0",
+    "@aws-lambda-powertools/commons": "2.25.1",
     "@aws-lambda-powertools/jmespath": "2.22.0"
   },
   "peerDependencies": {
